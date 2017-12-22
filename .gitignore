@@ -1,0 +1,21 @@
+*
+!.gitignore
+!*Exercise*
+!*Project*
+!*.csv
+!*.html
+!*.txt
+!*RDD*
+!Seaborn
+!NumPy
+!Pandas
+!*.xlsx
+!Big-Data-and-Spark
+!*Learning*
+!Python-*
+!Geographical Plotting
+!Matplotlib
+!Pandas Built-in Data Viz
+!Machine Learning Sections/*/
+*Solution*
+*checkpoint*

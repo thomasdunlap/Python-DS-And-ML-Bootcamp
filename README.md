@@ -16,5 +16,11 @@ Here is the link to the [Udemy course](https://www.udemy.com/python-for-data-sci
     * Linear Regression
     * Logistic Regression
 * [Python Data Analysis](https://github.com/thomasdunlap/Python-DS-And-ML-Bootcamp/tree/master/Python-for-Data-Analysis)
-* Python Data Visualization
+    * Pandas
+    * NumPy
+* [Python Data Visualization](https://github.com/thomasdunlap/Python-DS-And-ML-Bootcamp/tree/master/Python-for-Data-Visualization)
+    * Seaborn
+    * Geographical Plotting
+    * Matplotlib
+    * Pandas Built-in Visualization
 * [Python Crash Course](https://github.com/thomasdunlap/Python-DS-And-ML-Bootcamp/tree/master/Python-Crash-Course)
